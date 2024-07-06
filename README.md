@@ -1,4 +1,4 @@
-# Student Management System 📚
+# Employee Management System 📚
 
-Welcome to the Student Management System project! 🚀 This project empowers you to efficiently manage student information, handle course registrations, and oversee administrative tasks. Developed in Java and integrated with a MySQL database, it ensures seamless data storage and retrieval.
+Welcome to the Employee Management System project! 🚀 This project empowers you to efficiently manage Employee information, handle name registrations, and oversee administrative tasks. Developed in Java and integrated with a MySQL database, it ensures seamless data storage and retrieval.
 
