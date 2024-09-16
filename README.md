@@ -1,5 +1,3 @@
-
-
 #EmpApplication
 
 EmpApplication is a Spring Boot application for managing employee data. It provides RESTful APIs to perform CRUD operations on employees stored in a database.
